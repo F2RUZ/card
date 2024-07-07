@@ -1,0 +1,15 @@
+.card {
+  width: 500px;
+  border: 2px solid red;
+}
+.card__title {
+  text-transform: uppercase;
+}
+.card__text {
+  color: #8a2be2;
+}
+.card__btn {
+  background-color: #000;
+  width: 100%;
+  color: #fff;
+} /*# sourceMappingURL=style.css.map */

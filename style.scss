@@ -1,0 +1,19 @@
+.card {
+  width: 500px;
+  border: 2px solid red;
+
+  &__title {
+    text-transform: uppercase;
+  }
+
+  &__text {
+    color: blueviolet;
+  }
+
+  &__btn{
+    background-color:black;
+    width: 100%;
+    color: white;
+  }
+}
+
